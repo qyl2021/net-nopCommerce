@@ -19,7 +19,7 @@
     <PackageReference Include="linq2db" Version="3.2.3" />
     <PackageReference Include="MySql.Data" Version="8.0.23" />
     <PackageReference Include="Npgsql" Version="5.0.3" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
     <PackageReference Include="System.Net.NameResolution" Version="4.3.0" />
   </ItemGroup>
 
